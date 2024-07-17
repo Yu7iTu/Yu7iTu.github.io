@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuqi Tu's Personal Webpage"
+title: "Yuqi Tu"
 author_profile: true
 redirect_from: 
   - /about/
