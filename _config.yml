@@ -21,7 +21,7 @@ repository               : "Yu7iTu/yu7itu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "me.jpg"
   name             : "Yuqi Tu"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student at University of Wisconsin, Madison"
